@@ -202,37 +202,43 @@ footer svg {
 }
 
 .un {
-    border: 1px solid #fff;
-    border-radius: 50%;
-    width: 2em;
-    height: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  width: 2em;
+  height: 2em;
 }
 .un:hover {
-    background-color: #fff;
-    border-color: hsl(322, 100%, 66%);
+    border: 3px solid hsl(322, 100%, 66%);
     cursor: pointer;
 }
 .deux {
-    border: 1px solid #fff;
-    border-radius: 50%;
-    width: 2em;
-    height: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  width: 2em;
+  height: 2em;
 }
 .deux:hover {
-    background-color: #fff;
-    border-color: hsl(322, 100%, 66%);
+    border: 3px solid hsl(322, 100%, 66%);
     cursor: pointer;
 }
 .trois {
-    border: 1px solid #fff;
-    border-radius: 50%;
-    width: 2em;
-    height: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  width: 2em;
+  height: 2em;
 }
 .trois:hover {
-    background-color: #fff;
-    border-color: hsl(322, 100%, 66%);
-    cursor: pointer;
+  border: 3px solid hsl(322, 100%, 66%);
+  cursor: pointer;
 }
 
 .footer__copy {
